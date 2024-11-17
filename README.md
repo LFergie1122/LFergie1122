@@ -2,9 +2,9 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... software development
 - 💞️ I’m looking to collaborate on ... everything
-- 📫 How to reach me ... 
+- 📫 How to reach me ... my email! 
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I love music!
 
 <!---
 LFergie1122/LFergie1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
